@@ -26,12 +26,12 @@ Data Science and Intelligent Systems student with a specialized focus on determi
 
 ---
 
-## Language Proficiency
+## Languages
 * **Amazigh:** Native
 * **Arabic:** Native
 * **English:** Professional
 * **French:** Intermediate
-* 
+
 ---
 
 ## Research and Selected Projects
