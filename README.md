@@ -1,4 +1,4 @@
-#Hvllvix
+# Hvllvix
 
 ## Technical Summary
 Data Science and Intelligent Systems (SDSI) student with a specialized focus on deterministic algorithms and deep learning architectures. Currently pursuing a Bachelor’s degree at the **École Supérieure de Technologie de Guelmim (ESTG)**, I leverage a strong foundation in **Information Systems (BTS)** to develop optimized solutions in **Python** and **C**. My technical interests lie in the intersection of cellular automata, Computer Vision (CNNs), and Machine Learning.
