@@ -6,12 +6,9 @@ Data Science and Intelligent Systems student with a specialized focus on determi
 ---
 
 ## Academic Background
-* **Bachelor in Data Science and Intelligent Systems**
-    * École Supérieure de Technologie de Guelmim: 2026
-* **Brevet de Technicien Supérieur in Information Systems**
-    * Lycée d’Excellence de Guelmim: 2025
-* **Baccalauréat in Physical Sciences**
-    * Lycée Bab Sahara de Guelmim: 2023
+* **Bachelor in Data Science and Intelligent Systems**: École Supérieure de Technologie de Guelmim: 2026
+* **Brevet de Technicien Supérieur in Information Systems**: Lycée d’Excellence de Guelmim: 2025
+* **Baccalauréat in Physical Sciences**: Lycée Bab Sahara de Guelmim: 2023
 
 ---
 
@@ -29,6 +26,14 @@ Data Science and Intelligent Systems student with a specialized focus on determi
 
 ---
 
+## Language Proficiency
+* **Amazigh:** Native
+* **Arabic:** Native
+* **English:** Professional
+* **French:** Intermediate
+* 
+---
+
 ## Research and Selected Projects
 
 ### Life Hashing
@@ -44,15 +49,7 @@ Consistent participant in the annual global programming challenge. Solutions foc
 ---
 
 ## Interests & Activities
-* **Technical:** Algorithmic challenges (Advent of Code), open-source contribution, cellular automata research, artificial intelligence.
-* **Athletics:** Distance running and cycling, active contributor on **Strava**.
-* **Gaming:** Competitive (**Brawlhalla**), Completionist (**Hollow Knight**, **Rain World**), Active Member (**Replicube**, **Geometry Dash**).
+* **Technical:** Algorithmic challenges (Advent of Code), Open-source contribution, Cellular automata research, Artificial intelligence.
+* **Athletics:** cycling, active contributor on **Strava**.
+* **Gaming:** Hollow Knight, Rain World, TBOI, Brawlhalla, Geometry Dash, Replicube, Ultrakill.
 * **Music:** Electronic and Bass music.
-
----
-
-## Language Proficiency
-* **Amazigh:** Native
-* **Arabic:** Native
-* **English:** Professional
-* **French:** Intermediate
