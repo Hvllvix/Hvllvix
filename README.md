@@ -2,12 +2,13 @@
 
 ## Technical Summary
 Data Science and Intelligent Systems student with a specialized focus on deterministic algorithms and deep learning architectures. Currently pursuing a Bachelor’s degree at the **École Supérieure de Technologie de Guelmim**, I leverage a strong foundation in **Information Systems** to develop optimized solutions in **Python** and **C**.
+
 ---
 
 ## Academic Background
-* **Bachelor in Science de données et systèmes intelligents (SDSI)**
+* **Bachelor in Data Science and Intelligent Systems**
     * École Supérieure de Technologie de Guelmim: 2026
-* **Brevet de Technicien Supérieur (BTS) in Information Systems**
+* **Brevet de Technicien Supérieur in Information Systems**
     * Lycée d’Excellence de Guelmim: 2025
 * **Baccalauréat in Physical Sciences**
     * Lycée Bab Sahara de Guelmim: 2023
@@ -17,8 +18,8 @@ Data Science and Intelligent Systems student with a specialized focus on determi
 ## Core Technical Proficiencies
 
 ### Programming & Systems
-* **Languages:** Python (Primary), C (Systems/Algorithms)
-* **Tools:** Git, GitHub, Linux Environments, Google Colab, Kaggle, Visual Basic Code.
+* **Languages:** Python, C, HTLM/CSS, Java, Javascript, SQL.
+* **Tools:** GitHub, Linux, Google Colab, Kaggle, Visual Basic Code.
 * **Frameworks:** TensorFlow, Pygame, NumPy, Pandas, Matplotlib, Sympy, Scipy.
 
 ### Specialized Domains
