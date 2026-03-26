@@ -1,21 +1,34 @@
-# Project Title
+# Hi there, I'm Hvllvix
 
-Description of the project and its purpose.
+I'm a data science and intelligent systems student with a focus on deterministic algorithms and deep learning architectures. Currently pursuing a Bachelor's degree at École Supérieure de Technologie de Guelmim, I leverage a strong foundation in intelligente systems to develop optimized solutions in Python.
 
-## Installation
+---
 
-Follow these steps to install the project.
+## Academic Background
+* Bachelor in Data Science and Intelligent Systems: École Supérieure de Technologie de Guelmim (2026)
+* Brevet de Technicien Supérieur in Information Systems: Lycée d'Excellence de Guelmim (2025)
+* Baccalauréat in Physical Sciences: Lycée Bab Sahara de Guelmim (2023)
 
-## Usage
+## Technical Proficiencies
 
-Instructions on how to use this project, including examples.
+### Programming & Systems
+* Languages: Python, C, HTML/CSS, Java, Javascript, SQL
+* Tools: GitHub, Linux, Google Colab, Kaggle, Visual Studio Code
+* Frameworks: TensorFlow, Pygame, NumPy, Pandas, Matplotlib, Sympy, Scipy
 
-## Contributing
+### Specialized Domains
+* Deep Learning: Convolutional Neural Networks, Model Training & Optimization
+* Machine Learning: Statistical Modeling, Supervised & Unsupervised Learning
+* Data Engineering: Big Data Analytics, Data Mining, Data Warehousing (ETL)
 
-Guidelines for contributing to the project.
+## Languages
+* Amazigh: Native
+* Arabic: Native
+* English: Professional
+* French: Intermediate
 
-## License
-
-Detail about the project's license.
-
-This project aims to provide a clear and straightforward approach to help users understand the implementation and usage. If you encounter any issues or need clarification, please feel free to reach out!
+## Interests & Activities
+* Technical: Algorithmic challenges (Advent of Code), Open-source contribution, Cellular automata research, Artificial intelligence
+* Athletics: Cycling, active contributor on Strava
+* Gaming: Hollow Knight, Rain World, TBOI, Brawlhalla, Geometry Dash, Replicube, Ultrakill
+* Music: Electronic and Bass music
