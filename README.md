@@ -21,12 +21,6 @@ I'm a data science and intelligent systems student with a focus on deterministic
 * Machine Learning: Statistical Modeling, Supervised & Unsupervised Learning
 * Data Engineering: Big Data Analytics, Data Mining, Data Warehousing (ETL)
 
-## Languages
-* Amazigh: Native
-* Arabic: Native
-* English: Professional
-* French: Intermediate
-
 ## Interests & Activities
 * Technical: Algorithmic challenges (Advent of Code), Open-source contribution, Cellular automata research, Artificial intelligence
 * Athletics: Cycling, active contributor on Strava
