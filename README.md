@@ -1,55 +1,27 @@
-# Hvllvix
+# Project Title
 
-## Technical Summary
-Data Science and Intelligent Systems student with a specialized focus on deterministic algorithms and deep learning architectures. Currently pursuing a Bachelor’s degree at the **École Supérieure de Technologie de Guelmim**, I leverage a strong foundation in **Information Systems** to develop optimized solutions in **Python** and **C**.
+An overview of the project and how it works.
 
----
+## Technologies Used
+- HTML/CSS
+- JavaScript
 
-## Academic Background
-* **Bachelor in Data Science and Intelligent Systems**: École Supérieure de Technologie de Guelmim: 2026
-* **Brevet de Technicien Supérieur in Information Systems**: Lycée d’Excellence de Guelmim: 2025
-* **Baccalauréat in Physical Sciences**: Lycée Bab Sahara de Guelmim: 2023
+## Installation
+To run this project locally, follow these steps:
+1. Clone the repo: `git clone https://github.com/Hvllvix/Hvllvix.git`
+2. Navigate to the project directory.
+3. Open `index.html` in a web browser.
 
----
+## Usage
+Provide instructions for using the project. 
 
-## Core Technical Proficiencies
+## Contributing
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/YourFeature`
+3. Make your changes and add them: `git add .`
+4. Commit your changes: `git commit -m "Add your message here"`
+5. Push to the branch: `git push origin feature/YourFeature`
+6. Create a pull request.
 
-### Programming & Systems
-* **Languages:** Python, C, HTLM/CSS, Java, Javascript, SQL.
-* **Tools:** GitHub, Linux, Google Colab, Kaggle, Visual Basic Code.
-* **Frameworks:** TensorFlow, Pygame, NumPy, Pandas, Matplotlib, Sympy, Scipy.
-
-### Specialized Domains
-* **Deep Learning:** Convolutional Neural Networks, Model Training & Optimization.
-* **Machine Learning:** Statistical Modeling, Supervised & Unsupervised Learning.
-* **Data Engineering:** Big Data Analytics, Data Mining, Data Warehousing (ETL)
-
----
-
-## Languages
-* **Amazigh:** Native
-* **Arabic:** Native
-* **English:** Professional
-* **French:** Intermediate
-
----
-
-## Research and Selected Projects
-
-### Life Hashing
-Developed a deterministic hashing algorithm based on Conway's Game of Life. This project explores the use of cellular evolution and bitwise shuffling to generate unique, reproducible hash values from initial states.
-
-### Game of Life Predictor
-Architected and trained a 3-layer Conv2D neural network to predict both the next deterministic state and the previous inverse state of Conway's Game of Life. 
-* **Scope:** Custom dataset generation, architectural design, and model evaluation using TensorFlow and Matplotlib.
-
-### Advent of Code
-Consistent participant in the annual global programming challenge. Solutions focus on algorithmic efficiency and data structure optimization using Python and C.
-
----
-
-## Interests & Activities
-* **Technical:** Algorithmic challenges (Advent of Code), Open-source contribution, Cellular automata research, Artificial intelligence.
-* **Athletics:** cycling, active contributor on **Strava**.
-* **Gaming:** Hollow Knight, Rain World, TBOI, Brawlhalla, Geometry Dash, Replicube, Ultrakill.
-* **Music:** Electronic and Bass music.
+## License
+This project is licensed under the MIT License.
