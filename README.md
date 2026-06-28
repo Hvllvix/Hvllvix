@@ -22,7 +22,7 @@ I'm a data science and intelligent systems student with a focus on deterministic
 * Data Engineering: Big Data Analytics, Data Mining, Data Warehousing (ETL)
 
 ## Interests & Activities
-* Technical: Algorithmic challenges (Advent of Code), Open-source contribution, Cellular automata research, Artificial intelligence
-* Athletics: Cycling, active contributor on Strava
-* Gaming: Hollow Knight, Rain World, TBOI, Brawlhalla, Geometry Dash, Replicube, Ultrakill
+* Technical: Algorithmic challenges, Open-source contribution, Cellular automata, Artificial intelligence
+* Athletics: Cycling, Calisthenics
+* Gaming: Hollow Knight, Rain World, Noita, TBOI, Brawlhalla, Geometry Dash, Replicube, Ultrakill
 * Music: Electronic and Bass music
