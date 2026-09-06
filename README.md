@@ -1,13 +1,13 @@
 # Hi there, I'm Hvllvix
 
-I'm a data science and intelligent systems student with a focus on deterministic algorithms and deep learning architectures. Currently pursuing a Bachelor's degree at École Supérieure de Technologie de Guelmim, I leverage a strong foundation in intelligente systems to develop optimized solutions in Python.
+Bachelor's degree holder in data science and intelligent systems with a focus on deterministic algorithms and deep learning architectures. Open to work, collaborations, and connecting with interesting people.
 
 ---
 
 ## Academic Background
-* Bachelor in Data Science and Intelligent Systems: École Supérieure de Technologie de Guelmim (2026)
-* Brevet de Technicien Supérieur in Information Systems: Lycée d'Excellence de Guelmim (2025)
-* Baccalauréat in Physical Sciences: Lycée Bab Sahara de Guelmim (2023)
+* 2026 - Bachelor's degree in Data Science and Intelligent Systems
+* 2025 - Advanced Technician's Certificate in Information Systems
+* 2023 - High School Diploma in Physical Sciences
 
 ## Technical Proficiencies
 
@@ -19,10 +19,10 @@ I'm a data science and intelligent systems student with a focus on deterministic
 ### Specialized Domains
 * Deep Learning: Convolutional Neural Networks, Model Training & Optimization
 * Machine Learning: Statistical Modeling, Supervised & Unsupervised Learning
-* Data Engineering: Big Data Analytics, Data Mining, Data Warehousing (ETL)
+* Data Engineering: Big Data Analytics, Data Mining, Data Warehousing
 
 ## Interests & Activities
 * Technical: Algorithmic challenges, Open-source contribution, Cellular automata, Artificial intelligence
 * Athletics: Cycling, Calisthenics
 * Gaming: Hollow Knight, Rain World, Noita, TBOI, Brawlhalla, Geometry Dash, Replicube, Ultrakill
-* Music: Electronic and Bass music
+* Music: Electronic, Future funk
